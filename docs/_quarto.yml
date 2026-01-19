@@ -14,6 +14,12 @@ website:
         file: architecture.md
       - text: "Inputs"
         file: inputs.md
+      - text: "Specs"
+        file: specs.md
+      - text: "Timeline"
+        file: timeline.md
+      - text: "Backlog"
+        file: backlog.md
       - text: "Troubleshooting"
         file: troubleshooting.md
 
